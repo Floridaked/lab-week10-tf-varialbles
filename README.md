@@ -1,5 +1,9 @@
 # 4640-w10-lab-start-w25
 
+
+![alt text](image.png)
+![alt text](image-1.png)
+
 4640-w10-lab-start-w25
 Infrastructure lab: build AMI with Packer + Ansible, deploy EC2 via Terraform module, then destroy.
 
